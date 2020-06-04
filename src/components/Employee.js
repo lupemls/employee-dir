@@ -23,6 +23,7 @@ class Employee extends Component {
   }
   sortName() {
       //sorts employees based off of name
+      //had to change to arrow function for this to be read
     const compare = (a, b) => {
       if(this.state.sortAsc){
         this.setState({sortAsc: false})

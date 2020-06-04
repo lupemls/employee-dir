@@ -1,0 +1,19 @@
+body{
+    background: slategray;
+    margin: auto;
+    text-align: center;
+}
+
+header{
+    background: lightslategray;
+    margin: auto;
+    padding: 1em;
+}
+
+table{
+    margin: auto;
+
+}
+th{
+    padding: 0 4em;
+}

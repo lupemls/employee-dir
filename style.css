@@ -4,6 +4,12 @@ body{
     text-align: center;
 }
 
+button{
+    background: lightseagreen;
+    border-radius: 12px;
+    color: white;
+}
+
 header{
     background: lightslategray;
     margin: auto;
@@ -12,8 +18,8 @@ header{
 
 table{
     margin: auto;
-
 }
+
 th{
     padding: 0 4em;
 }
